@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_gr.iml" filepath="$PROJECT_DIR$/.idea/modules/first_gr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_gr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first_gr_main.iml" group="first_gr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_gr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first_gr_test.iml" group="first_gr" />
+    </modules>
+  </component>
+</project>
